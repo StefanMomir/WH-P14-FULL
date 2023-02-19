@@ -1,12 +1,8 @@
-![image](/assets/logo.png)
-
 # WH-P14-Full
 
 ATENTION ! THIS IS A SCHOOL PROJECT !
 
 Search by keyword, Sort, Filter, Order, Pagination
-
-![image](/assets/example.png)
 
 ## Installation
 

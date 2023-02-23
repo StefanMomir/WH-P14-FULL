@@ -1,6 +1,6 @@
 {
   "name": "wh-p14-full",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "dist/index.js",
   "description": "This is a School Project !",
   "author": "OCMStefan",
@@ -9,6 +9,12 @@
   "type": "git",
   "url": "https://github.com/StefanMomir/WH-P14-FULL.git"
   },
+  "keywords": [
+  "table",
+  "pagination",
+  "ordering",
+  "filtering"
+  ],
   "files": [
     "dist",
     "README.md"
